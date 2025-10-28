@@ -1,0 +1,7 @@
+{
+  "name": "AI Workout Counter (شمارنده ورزش)",
+  "description": "An AI-powered web application that uses your camera to count your workout repetitions for exercises like push-ups, squats, and jumping jacks. All UI text is in Persian (Farsi).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
